@@ -1,0 +1,13 @@
+@import './fonts.css';
+@import './header/header.css';
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  padding-inline-start: 0;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+}
